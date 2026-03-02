@@ -1,0 +1,6 @@
+namespace HospitioApi.Core.HandleGuestAppEnhanceYourStayItemImage.Commands.DeleteGuestAppEnhanceYourStayItemsImages;
+
+public class DeleteGuestAppEnhanceYourStayItemsImages
+{
+
+}

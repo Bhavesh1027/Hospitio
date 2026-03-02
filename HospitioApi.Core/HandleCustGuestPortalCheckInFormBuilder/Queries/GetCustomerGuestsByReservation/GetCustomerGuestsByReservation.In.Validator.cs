@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleCustGuestPortalCheckInFormBuilder.Queries.GetCustomerGuestsByReservation;
+
+public class GetCustomerGuestsByReservationValidator
+{
+}

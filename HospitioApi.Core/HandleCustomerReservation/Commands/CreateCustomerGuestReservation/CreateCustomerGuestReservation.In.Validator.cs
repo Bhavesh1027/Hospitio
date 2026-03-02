@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleCustomerReservation.Commands.CreateCustomerGuestReservation;
+
+public class CreateCustomerGuestReservationValidator
+{
+}

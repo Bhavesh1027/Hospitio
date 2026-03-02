@@ -1,0 +1,6 @@
+namespace HospitioApi.Core.HandleCustomerGuestAppEnhanceYourStayCategoryItemsExtra.Commands.DeleteCustomerGuestAppEnhanceYourStayCategoryItemExtra;
+
+public class DeleteCustomerGuestAppEnhanceYourStayCategoryItemExtraIn
+{
+    public int CustomerGuestAppEnhanceYourStayItemId { get; set; }
+}

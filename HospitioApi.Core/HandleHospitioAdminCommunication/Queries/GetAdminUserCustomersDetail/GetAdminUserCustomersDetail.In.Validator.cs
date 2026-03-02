@@ -1,0 +1,4 @@
+namespace HospitioApi.Core.HandleHospitioAdminCommunication.Queries.GetAdminUserCustomersDetail;
+public class GetAdminUserCustomersDetailValidator
+{
+}

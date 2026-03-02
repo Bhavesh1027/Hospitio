@@ -1,0 +1,17 @@
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Data.deps.json
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Data.runtimeconfig.json
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Data.dll
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Data.pdb
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Shared.dll
+D:\Project\HospitioAPI\API\HospitioApi.Data\bin\Release\net6.0\HospitioApi.Shared.pdb
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.csproj.AssemblyReference.cache
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.AssemblyInfoInputs.cache
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.AssemblyInfo.cs
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.csproj.CoreCompileInputs.cache
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.csproj.CopyComplete
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.dll
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\refint\HospitioApi.Data.dll
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.pdb
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\HospitioApi.Data.genruntimeconfig.cache
+D:\Project\HospitioAPI\API\HospitioApi.Data\obj\Release\net6.0\ref\HospitioApi.Data.dll

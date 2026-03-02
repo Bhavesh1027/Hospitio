@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleGuestJourneyMessagesTemplates.Queries.GetGuestJourneyMessagesTemplates;
+
+public class GetGuestJourneyMessagesTemplatesForCustomerIn
+{
+}

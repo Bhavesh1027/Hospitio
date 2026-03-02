@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleCustomerStaffAlerts.Queries.GetCustomerStaffAlertsByCustomerId;
+
+public class GetCustomerStaffAlertsByCustomerIdIn
+{
+}

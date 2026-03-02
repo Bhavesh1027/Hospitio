@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HospitioApi.Core</id>
+    <version>1.0.0</version>
+    <authors>HospitioApi.Core</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="HospitioApi.Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="HospitioApi.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Azure.Storage.Blobs" version="12.16.0" exclude="Build,Analyzers" />
+        <dependency id="BarCode" version="2023.7.2" exclude="Build,Analyzers" />
+        <dependency id="Dapper" version="2.0.123" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.AspNetCore" version="11.3.0" exclude="Build,Analyzers" />
+        <dependency id="HtmlAgilityPack" version="1.11.46" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Azure.SignalR" version="1.21.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Configuration" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="SendGrid" version="9.28.1" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.ImageSharp" version="3.0.1" exclude="Build,Analyzers" />
+        <dependency id="Vonage" version="6.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Project\HospitioAPI\API\HospitioApi.Core\bin\Debug\net6.0\HospitioApi.Core.dll" target="lib\net6.0\HospitioApi.Core.dll" />
+  </files>
+</package>

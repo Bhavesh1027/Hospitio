@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandlePaymentServiceDefinitions.Commands.SyncPaymentServiceDefinitions;
+
+public class SyncPaymentServiceDefinitionsValidator
+{
+}

@@ -1,0 +1,6 @@
+namespace HospitioApi.Core.HandleGr4vyPaymentServiceCustomer.Queries.GetCustomerGr4vyPaymentService;
+
+public class GetCustomerGr4vyPaymentServiceIn
+{
+    public int? CustomerId { get; set; }
+}

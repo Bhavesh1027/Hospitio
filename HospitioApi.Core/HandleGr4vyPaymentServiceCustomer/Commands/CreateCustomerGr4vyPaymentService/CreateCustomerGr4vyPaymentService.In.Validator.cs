@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleGr4vyPaymentServiceCustomer.Commands.CreateCustomerGr4vyPaymentService;
+
+public class CreateCustomerGr4vyPaymentServiceValidator
+{
+}

@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HospitioApi.Core.Services.Chat.Models
+{
+    public class TotalUnreadCount
+    {
+        public string Type { get; set; }
+        public int Count { get; set; }
+    }
+}

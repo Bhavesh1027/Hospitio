@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleCustomerReservation.Commands.TransferCustomerGuestReservation;
+
+public class TransferCustomerGuestReservationInValidator
+{
+}

@@ -1,0 +1,5 @@
+namespace HospitioApi.Core.HandleCustomerRoomNames.Queries.GetCustomerRoomByCustomerRoomGuId;
+
+public class GetCustomerRoomByCustomerRoomGuIdValidator
+{
+}

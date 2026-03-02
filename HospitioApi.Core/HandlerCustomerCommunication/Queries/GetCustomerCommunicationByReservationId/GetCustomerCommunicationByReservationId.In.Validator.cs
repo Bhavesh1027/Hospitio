@@ -1,0 +1,5 @@
+
+namespace HospitioApi.Core.HandlerCustomerCommunication.Queries.GetCustomerCommunicationByReservationId;
+public class GetCustomerCommunicationByReservationIdValidator
+{
+}
