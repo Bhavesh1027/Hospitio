@@ -2587,13 +2587,13 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HospitioApi.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.16",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.16",
       "Microsoft.Extensions.Identity.Stores >= 6.0.16",
-      "Microsoft.Extensions.Logging >= 6.0.0",
-      "HospitioApi.Shared >= 1.0.0"
+      "Microsoft.Extensions.Logging >= 6.0.0"
     ]
   },
   "packageFolders": {

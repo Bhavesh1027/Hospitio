@@ -1259,11 +1259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\HospitioApi.DtoToTs.csproj",
+      "projectUniqueName": "d:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\HospitioApi.DtoToTs.csproj",
       "projectName": "HospitioApi.DtoToTs",
-      "projectPath": "D:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\HospitioApi.DtoToTs.csproj",
+      "projectPath": "d:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\HospitioApi.DtoToTs.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\obj\\",
+      "outputPath": "d:\\Bhavesh\\Project .Net\\API\\API\\HospitioApi.DtoToTs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

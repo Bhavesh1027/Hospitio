@@ -1,15 +1,3 @@
-D:\Project\HospitioAPI\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.deps.json
-D:\Project\HospitioAPI\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.dll
-D:\Project\HospitioAPI\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.pdb
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.csproj.AssemblyReference.cache
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.AssemblyInfoInputs.cache
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.AssemblyInfo.cs
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.csproj.CoreCompileInputs.cache
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.dll
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\refint\HospitioApi.Shared.dll
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.pdb
-D:\Project\HospitioAPI\API\HospitioApi.Shared\obj\Debug\net6.0\ref\HospitioApi.Shared.dll
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.deps.json
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.dll
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\bin\Debug\net6.0\HospitioApi.Shared.pdb
@@ -18,6 +6,7 @@ D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.AssemblyInfoInputs.cache
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.AssemblyInfo.cs
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.csproj.CoreCompileInputs.cache
+D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.sourcelink.json
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.dll
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\refint\HospitioApi.Shared.dll
 D:\Bhavesh\Project .Net\API\API\HospitioApi.Shared\obj\Debug\net6.0\HospitioApi.Shared.pdb

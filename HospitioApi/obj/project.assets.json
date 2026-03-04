@@ -4084,10 +4084,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "HospitioApi.Core": "1.0.0",
           "Microsoft.Extensions.Hosting.Abstractions": "2.1.1",
           "Newtonsoft.Json": "13.0.3",
-          "RabbitMQ.Client": "6.5.0",
-          "HospitioApi.Core": "1.0.0"
+          "RabbitMQ.Client": "6.5.0"
         },
         "compile": {
           "bin/placeholder/Hospitio.BackGroundService.dll": {}
@@ -4106,6 +4106,8 @@
           "Dapper": "2.0.123",
           "EPPlus": "6.2.9",
           "FluentValidation.AspNetCore": "11.3.0",
+          "HospitioApi.Data": "1.0.0",
+          "HospitioApi.Shared": "1.0.0",
           "HtmlAgilityPack": "1.11.46",
           "HtmlToPdfMaster": "1.0.0.2",
           "MediatR": "12.0.1",
@@ -4113,8 +4115,6 @@
           "Microsoft.Extensions.Logging.Configuration": "6.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RabbitMQ.Client": "6.5.0",
-          "HospitioApi.Data": "1.0.0",
-          "HospitioApi.Shared": "1.0.0",
           "Select.HtmlToPdf.NetCore": "23.2.0",
           "SendGrid": "9.28.1",
           "SixLabors.ImageSharp": "3.0.1",
@@ -4131,12 +4131,12 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "HospitioApi.Shared": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.16",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
           "Microsoft.Extensions.Identity.Stores": "6.0.16",
-          "Microsoft.Extensions.Logging": "6.0.0",
-          "HospitioApi.Shared": "1.0.0"
+          "Microsoft.Extensions.Logging": "6.0.0"
         },
         "compile": {
           "bin/placeholder/HospitioApi.Data.dll": {}
@@ -11587,6 +11587,11 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "FluentValidation >= 11.5.2",
+      "Hospitio.BackGroundService >= 1.0.0",
+      "HospitioApi.Core >= 1.0.0",
+      "HospitioApi.Data >= 1.0.0",
+      "HospitioApi.DtoToTs >= 1.0.0",
+      "HospitioApi.Shared >= 1.0.0",
       "MediatR >= 12.0.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.9",
       "Microsoft.Azure.SignalR >= 1.21.3",
@@ -11594,11 +11599,6 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.AzureAppServices >= 7.0.5",
       "Microsoft.OpenApi >= 1.6.3",
-      "Hospitio.BackGroundService >= 1.0.0",
-      "HospitioApi.Core >= 1.0.0",
-      "HospitioApi.Data >= 1.0.0",
-      "HospitioApi.DtoToTs >= 1.0.0",
-      "HospitioApi.Shared >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },

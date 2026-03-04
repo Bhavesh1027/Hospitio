@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RollForward>LatestMajor</RollForward>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,8 +14,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 	
-	<Target Name="DtoToTs" BeforeTargets="Build">
-		<Exec Command="dotnet .\bin\debug\net6.0\HospitioApi.DtoToTs.dll" />
+	<Target Name="DtoToTs" AfterTargets="Build">
+		<Exec Command="dotnet --roll-forward LatestMajor .\bin\Debug\net6.0\HospitioApi.DtoToTs.dll" />
 	</Target>
 
 </Project>
