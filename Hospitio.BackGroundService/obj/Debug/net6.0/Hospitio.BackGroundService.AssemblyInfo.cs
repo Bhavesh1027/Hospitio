@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hospitio.BackGroundService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dcb4ac46b2b2e92fcd7aa54e6a8acd4de543a32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aea190e91bb2ba00e167e85f1bf00a477ea4d6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hospitio.BackGroundService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hospitio.BackGroundService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
