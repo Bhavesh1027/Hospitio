@@ -15,7 +15,7 @@ public class CompareContextVsDatabaseTest
     //[Fact]
     public void Compare()
     {
-        var LOCAL_ConnectionString = "Server=(localdb)\\MSSQLLocalDB;Initial Catalog=prod_copy";
+        var LOCAL_ConnectionString = "<--Your Key -->";
         var UAT_ConnectionString = "";
         var PROD_ConnectionString = "";
 
