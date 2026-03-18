@@ -589,7 +589,7 @@ builder.Services
     .AddSingleton<ILanguageTranslatorService, LanguageTranslatorService>()
     .AddSingleton<IBackGroundServiceData, BackGroundServiceData>()
     .AddScoped<ISendEmail, SendEmail>()
-    .AddSingleton<IRabbitMQClient, RabbitMQClient>()
+    .AddSingleton<IRabbitMQClient, MockRabbitMQClient>()
     .AddTransient<ChatHub>()
     .Configure<JwtSettingsOptions>(jwtSettingsSection) /** https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0 */
     .Configure<JwtSettingsForGr4vyOptions>(jwtSettingsForGr4vyOptions)
@@ -762,8 +762,8 @@ if (backGroundServicesSettings != null && backGroundServicesSettings.GuestMessag
 builder.Services.AddHostedService<ConnectionDefinationsBackgroundService>();
 builder.Services.AddHostedService<PaymentServiceDefinitionByIdBackgroundService>();
 builder.Services.AddHostedService<TemplateStatusCheckService>();
-builder.Services.AddHostedService<ReceiveWPMessageConsume>();
-builder.Services.AddHostedService<SendAlertMessageBackGroundService>();
+// builder.Services.AddHostedService<ReceiveWPMessageConsume>();
+// builder.Services.AddHostedService<SendAlertMessageBackGroundService>();
 if (backGroundServicesSettings != null && backGroundServicesSettings.TaxiTransferStatusCheckServiceEnabled)
 {
     builder.Services.AddHostedService<TaxiTransferStatusCheckService>();
