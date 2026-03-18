@@ -480,3 +480,39 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Additional .NET specific files
+*.pubxml.user
+*.csproj.user
+*.user
+*.suo
+
+# Entity Framework tools
+*.db-shm
+*.db-wal
+
+# Local database files
+*.mdf
+*.ldf
+*.sdf
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# IntelliTrace files
+*.iTrace
+
+# VS Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Rider
+.idea/
+
+# Application specific
+appsettings.Local.json
+appsettings.Development.local.json
